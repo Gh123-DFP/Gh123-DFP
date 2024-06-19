@@ -5,6 +5,7 @@ NOTE : The creator of this tool is not responsible of the consequences that this
 This tool was made for EDUCATIONAL PURPOSE ONLY!
 
 How To RUN :
+Make sure you have nmap installer (Use this command to install it into a Linux/Unix System : sudo apt-get install nmap)
 cd Vulnerability-Scanner
 chmod +x Vuln-Scanner.sh
 sudo bash Vuln-Scanner.sh
